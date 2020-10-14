@@ -282,7 +282,8 @@ h6 {
     font-size: 1.5rem;
 }
 }a:hover {
-    color: #ce0f0f;
+    color: #0FA0CE; 
+    /*highligh color*/
 }
 .button, button, input[type=button], input[type=reset], input[type=submit] {
     display: inline-block;
@@ -495,7 +496,7 @@ div.footnotes {
     color: #a2a7ab;
 }
 h1, h2, h3 {
-    color: #5a6e79;
+    color: #785a79;
 }
 blockquote {
     background: #e9f2f7;
