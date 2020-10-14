@@ -408,7 +408,7 @@
   font-size: 2em;
   background: #ff0;
   color: #000;
-  vertical-align: -50%;
+  vertical-align: +50%;
 }
 .ai-3x {
   font-size: 3em;
