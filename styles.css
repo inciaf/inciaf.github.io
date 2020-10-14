@@ -282,7 +282,7 @@ h6 {
     font-size: 1.5rem;
 }
 }a:hover {
-    color: #0FA0CE;
+    color: #ce0f0f;
 }
 .button, button, input[type=button], input[type=reset], input[type=submit] {
     display: inline-block;
@@ -607,7 +607,7 @@ div.category-nav {
     color: #5a6e79;
 }
 .post-content a:hover {
-    border-bottom: 1px dashed #7130a9;
+    border-bottom: 1px dashed #307EA9;
 }
 .footer {
     font-size: 1.2rem;
