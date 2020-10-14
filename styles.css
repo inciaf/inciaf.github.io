@@ -282,8 +282,7 @@ h6 {
     font-size: 1.5rem;
 }
 }a:hover {
-    color: #0FA0CE; 
-    /*highligh color*/
+    color: #0FA0CE;
 }
 .button, button, input[type=button], input[type=reset], input[type=submit] {
     display: inline-block;
