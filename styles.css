@@ -10,9 +10,10 @@ lo {
 li.float-left {
     float: left;
   }
-li.float-right {
-    float: right;
+li.float-academic {
+    float: left;
     color: transparent;
+    vertical-align: middle;
   }
   
 li.icon a.icon {
