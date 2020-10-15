@@ -12,6 +12,7 @@ li.float-left {
   }
 li.float-right {
     float: right;
+    color: transparent;
   }
   
 li.icon a.icon {
