@@ -9,14 +9,7 @@ lo {
 }
 li.float-left {
     float: left;
-  }
-li.float-academic {
-    float: left;
-    color: #1c181f;
-    position: relative;
-    padding: 5px;
-  }
-  
+  }  
 li.icon a.icon {
     display: block;
     text-align: center;
