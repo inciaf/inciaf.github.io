@@ -13,7 +13,9 @@ li.float-left {
 li.float-academic {
     float: left;
     color: #1c181f;
-    vertical-align: +50%;
+    position: relative;
+    top: 15px;
+    left: 15px;
   }
   
 li.icon a.icon {
