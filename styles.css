@@ -10,6 +10,9 @@ lo {
 li.float-left {
     float: left;
   }
+li.float-right {
+    float: right;
+  }
   
 li.icon a.icon {
     display: block;
