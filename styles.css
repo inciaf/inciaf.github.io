@@ -12,7 +12,7 @@ li.float-left {
   }
 li.float-academic {
     float: left;
-    color: transparent;
+    color: #555;
     vertical-align: middle;
   }
   
