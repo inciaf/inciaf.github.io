@@ -281,7 +281,8 @@ h6 {
     font-size: 1.5rem;
 }
 }a:hover {
-    color: #0FA0CE;
+    color: #76b900;
+    /*ainci 0FA0CE */
 }
 .button, button, input[type=button], input[type=reset], input[type=submit] {
     display: inline-block;
@@ -433,7 +434,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: #76b900; 
+    color: #307ea9; 
     /*ainci 002776 1D3D66 307ea9*/
 }
 code, kbd, pre, samp {
