@@ -22,6 +22,12 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-cv:before {
+    content: "\e9a5";
+}
+.icon-cv:hover {
+  color:#4183C4;
+}
 .icon-facebook:before {
     content: "\e600";
 }
