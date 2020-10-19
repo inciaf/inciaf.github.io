@@ -15,7 +15,12 @@ li.icon a.icon {
     text-align: center;
     padding: 12px;
     text-decoration: none;
+    color: #4b4b4b;
   }
+li.icon a.icon:hover{
+
+    color:#003366;
+}
 h1, h2 {
     letter-spacing: -.1rem;
 }
@@ -284,6 +289,9 @@ h6 {
     color: #0FA0CE;
     /*ainci */
 }
+.icon:hover {
+    color: #0FA0CE;
+  }
 .button, button, input[type=button], input[type=reset], input[type=submit] {
     display: inline-block;
     background-color: transparent;

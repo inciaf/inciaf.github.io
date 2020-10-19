@@ -107,9 +107,6 @@
 .ai-cv:before {
   content: "\e9a5";
 }
-.ai-cv:hover {
-  color:#4183C4;
-}
 .ai-cv-square:before {
   content: "\e90a";
 }
