@@ -22,10 +22,6 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-cv:before {
-    content: "\e9a5";
-}
-
 .icon-facebook:before {
     content: "\e600";
 }
@@ -165,10 +161,6 @@ a.social-button.color.icon-dribbble:hover {
     background-color: #ea4c89;
 }
 
-a.social-button.color.icon-cv:hover {
-    background-color: #ea4c89;
-}
-
 a.social-button.color:before {
     color: #4b4b4b;
 }
@@ -286,6 +278,4 @@ a.social-button.borderless.icon-github:hover {
 a.social-button.borderless.icon-dribbble:hover {
     color:#ea4c89;
 }
-a.social-button.borderless.icon-cv:hover {
-    color:#ea4c89;
-}
+
