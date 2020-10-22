@@ -20,6 +20,8 @@ li.icon a.icon {
 li.icon a.icon:hover{
 
     color:#0058b0;
+    transform: scale(1.25);
+    /*padding: .5em;*/
 }
 h1, h2 {
     letter-spacing: -.1rem;
@@ -289,7 +291,7 @@ h6 {
 }
 }a:hover {
     color: #0FA0CE;
-    /*ainci */
+    /*ainci 148aff*/
 }
 .icon:hover {
     color: #0FA0CE;
@@ -445,7 +447,7 @@ body {
 a {
     text-decoration: none;
     color: #0058b0; 
-    /*ainci 002776 1D3D66 307ea9 3b5998 */
+    /*ainci 1D3D66 307ea9 3b5998 0058b0*/
 }
 code, kbd, pre, samp {
     font-family: "Source Code Pro", monospace;
